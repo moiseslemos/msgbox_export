@@ -1,0 +1,6 @@
+$PBExportHeader$str_contato.srs
+global type str_contato from structure
+	string		nome
+	string		telefone
+	string		email
+end type
